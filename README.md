@@ -18,13 +18,7 @@ This will automatically:
 
 ⬇️ Download and install the Aria2 downloader
 
-<<<<<<< HEAD
 <br><br>
-=======
-
-
-
->>>>>>> 60ab1b44e81fb52739df15d637d59560c4a48e94
 ### 🔧 Cell 2 — Download Torrent through Mangent Link
 
 In Cell 2, enter the magnet link of the torrent you want to download.
