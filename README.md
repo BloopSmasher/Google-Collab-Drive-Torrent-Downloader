@@ -11,7 +11,9 @@ Cell 1 install all dependencies and prepare the environment.
 This will automatically:
 
 🔗 Mount your Google Drive to Google Colab
+
 📁 Create a directory named CollabTorrents in your Drive root
+
 ⬇️ Download and install the Aria2 downloader
 
 
