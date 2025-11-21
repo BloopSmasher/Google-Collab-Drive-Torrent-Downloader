@@ -32,4 +32,5 @@ Then simply wait for the download to complete.
 ❌ Ignore this error if encountered (Not Fatal)
 > [ERROR] IPv6 BitTorrent: failed to bind TCP port 6903  
 > Exception: [SocketCore.cc:312] errorCode=1 Failed to bind a socket, cause: Name or service not known
+
 ❌ This will not seed the torrent
