@@ -3,7 +3,7 @@ Download torrents at high speed directly to google drive using google high speed
 
 **Disclaimer**: Downloading copyrighted materials without permission is illegal. This project is intended for educational purposes only. Please ensure you have the necessary rights to download any torrent files you use.
 
-## I am unaware that this repository goes against the Google Collaboratory TOS and Policies, by using this repo you risk your account for potential restrictions and bans, So I am Archiving it, <br> USE IT ON YOUR OWN RISK!
+## I was unaware that this repository goes against the Google Collaboratory TOS and Policies, by using this repo you risk your account for potential restrictions and bans, So I am Archiving it, <br> USE IT ON YOUR OWN RISK!
 
 # Usage 
 
